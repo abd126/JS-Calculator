@@ -1,0 +1,39 @@
+.main {
+    border: 2px solid black;
+    width: 500px;
+    margin: 30px auto;
+    padding-bottom: 10px;
+}
+
+.result {
+    width: 95%;
+    height: 60px;
+    border: 2px solid gray;
+    margin: 10px;
+    box-shadow: 2px 2px 1px gray;
+    color: blue;
+    fon
+    
+}
+
+.halfBtn {
+    width: 49%;
+    background-color: rgb(235, 225, 225);
+    margin-left: 2px;
+    font-size: 20px;
+    height: 40px;
+
+}
+
+.btn {
+    background-color: rgb(235, 225, 225);
+    font-size: 20px;
+    width: 23.6%;
+    margin-left: 3px;
+    margin-top: 4px;
+    height: 40px;
+}
+
+.operator {
+    color: blue;
+}
